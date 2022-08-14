@@ -10,10 +10,21 @@ if (!process.env.PWD) {
   process.env.PWD = process.cwd();
 }
 
-const buildDir = `${process.env.PWD}/build`;
-const jsonDir = `${process.env.PWD}/json`;
+const testStatus = "debug";
+
+const buildDir =
+  testStatus == "debug"
+    ? `${process.env.PWD}/test-build`
+    : `${process.env.PWD}/build`;
+const jsonDir =
+  testStatus == "debug"
+    ? `${process.env.PWD}/test-json`
+    : `${process.env.PWD}/json`;
 const metDataFile = "_metadata.json";
-const layersDir = `${process.env.PWD}/layers/layers-male`;
+const layersDir =
+  testStatus == "debug"
+    ? `${process.env.PWD}/test-layers/layers-male`
+    : `${process.env.PWD}/layers/layers-male`;
 
 let metadata = [];
 let attributes = [];
