@@ -1,0 +1,87 @@
+{
+  "hash": "0313223242617194",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 3
+    },
+    {
+      "2": 2
+    },
+    {
+      "3": 2
+    },
+    {
+      "4": 2
+    },
+    {
+      "6": 1
+    },
+    {
+      "7": 1
+    },
+    {
+      "9": 4
+    }
+  ],
+  "edition": 5,
+  "date": 1660494358397,
+  "attributes": [
+    {
+      "id": 2,
+      "layer": "gender",
+      "name": "female",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Background",
+      "name": "3",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Skin",
+      "name": "3",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Fighter",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Face",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Clothes",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "Weapon",
+      "name": "shapes",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "Head",
+      "name": "red eye ball",
+      "rarity": "super rare"
+    },
+    {
+      "id": 4,
+      "layer": "Eyes",
+      "name": "green small",
+      "rarity": "original"
+    }
+  ]
+}

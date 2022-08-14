@@ -1,0 +1,87 @@
+{
+  "hash": "0212233442617191",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 2
+    },
+    {
+      "2": 3
+    },
+    {
+      "3": 4
+    },
+    {
+      "4": 2
+    },
+    {
+      "6": 1
+    },
+    {
+      "7": 1
+    },
+    {
+      "9": 1
+    }
+  ],
+  "edition": 4,
+  "date": 1660494357991,
+  "attributes": [
+    {
+      "id": 1,
+      "layer": "gender",
+      "name": "male",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Background",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Skin",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Fighter",
+      "name": "3",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "Face",
+      "name": "4",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Clothes",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "Weapon",
+      "name": "shapes",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "Head",
+      "name": "red eye ball",
+      "rarity": "super rare"
+    },
+    {
+      "id": 1,
+      "layer": "Eyes",
+      "name": "cyan big",
+      "rarity": "original"
+    }
+  ]
+}

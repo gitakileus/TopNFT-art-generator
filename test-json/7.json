@@ -1,0 +1,60 @@
+{
+  "hash": "0212344593",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 2
+    },
+    {
+      "3": 4
+    },
+    {
+      "4": 5
+    },
+    {
+      "9": 3
+    }
+  ],
+  "edition": 7,
+  "date": 1660494358884,
+  "attributes": [
+    {
+      "id": 1,
+      "layer": "gender",
+      "name": "male",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Background",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Skin",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "Face",
+      "name": "4",
+      "rarity": "original"
+    },
+    {
+      "id": 5,
+      "layer": "Clothes",
+      "name": "5",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Eyes",
+      "name": "green big",
+      "rarity": "original"
+    }
+  ]
+}
