@@ -1,0 +1,69 @@
+{
+  "hash": "021123334496",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 1
+    },
+    {
+      "2": 3
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 4
+    },
+    {
+      "9": 6
+    }
+  ],
+  "edition": 9,
+  "date": 1660493686825,
+  "attributes": [
+    {
+      "id": 2,
+      "layer": "gender",
+      "name": "female",
+      "rarity": "original"
+    },
+    {
+      "id": 2,
+      "layer": "Background",
+      "name": "2",
+      "rarity": "original"
+    },
+    {
+      "id": 1,
+      "layer": "Skin",
+      "name": "1",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Fighter",
+      "name": "3",
+      "rarity": "original"
+    },
+    {
+      "id": 3,
+      "layer": "Face",
+      "name": "3",
+      "rarity": "original"
+    },
+    {
+      "id": 4,
+      "layer": "Clothes",
+      "name": "4",
+      "rarity": "original"
+    },
+    {
+      "id": 6,
+      "layer": "Eyes",
+      "name": "pink small",
+      "rarity": "original"
+    }
+  ]
+}

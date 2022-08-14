@@ -3,9 +3,8 @@ const { buildSetup, createFiles, createMetaData } = require("./src/main.js");
 const { defaultEdition } = require("./src/config.js");
 const edition = myArgs.length > 0 ? Number(myArgs[0]) : defaultEdition;
 
-(() => {
+(async () => {
   buildSetup();
-  createFiles(edition);
+  await createFiles(edition);
   createMetaData();
 })();
-
